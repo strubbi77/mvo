@@ -25,7 +25,7 @@ Das System besteht aus:
 - Epson TSE (Keine Vermietung einer Kasse ohne TSE)
 - Netzwerktechnik
 
-Ausleihbar
+Ausleihbar (Kosten)
 ---------
 
 Meine Preisliste sieht in der Einführungsphase folgendermaßen aus: 
@@ -38,7 +38,7 @@ Meine Preisliste sieht in der Einführungsphase folgendermaßen aus:
 | Tablet | je Tag | 5  |   Bedienung 7", Kasse 10"  
 | TSE | je Wochenende | 20 | (ist bei Vermietung nicht optional, da Pflicht Vermietung einer Kasse) 
 | | | alle Preise + Mehrwehrsteuer.  
- 
+
 Inkludiert sind: 
 
 - Netzwerktechnik (1 Router, 1 Repeater, 1 LAN-Kabel)
@@ -53,6 +53,11 @@ Das System ist absichtlich im Inselbetrieb. Hat den Nachteil, dass es keine Fern
 Somit muss für digitales Zahlen auch ein anderes System beschafft werden. 
 
 Sinnvoll kann ich es derzeit nur im Bereich südl. Breisgau Hochschwarzwald + Freiburg vermieten.
+
+Mögliche Gesamtkosten in der Einführungsphase:
+------
+- Kasse mit zwei zusätzlichen Thekendruckern für ein 1. Maifest 107,20€ + 19% = 127,56 €
+- Kasse, 4 Tablets für Bedienungen, 4 Thekendrucker für ein 3 tägiges Fest: 297€ + 19% = 353,43 €
 
 Preisliste (App)
 -------
