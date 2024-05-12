@@ -1,7 +1,7 @@
 MVO
 ===
 
-Dies ist das öffentliche Repository zu meiner App: Mobiles Veranstaltungs Ordersystem kurz MVO. 
+Dies ist das öffentliche Repository zu meiner App: **Mobiles Veranstaltungs Ordersystem** kurz MVO. 
 
 
 Es ist ein aus überwiegend Consumer-Hardware bestehendes System zur Abwicklung von Bestellungen für kleine bis mittlere Heckenfeste. 
@@ -10,6 +10,7 @@ Als Kasse sind 90 Bestellungen pro Stunde gut möglich. Eine Bedienung schafft d
 
 
 Das System besteht aus:
+
 - Server (Raspberry Pi - Python)
 - Client Tabletts (Android / Kivy - Python for Android)
 - WLAN-Drucker
@@ -28,6 +29,7 @@ Die Preisliste sieht in der Einführungsphase folgendermaßen aus:
 - alle Preise + Mehrwehrsteuer. 
  
 Inkludiert sind: 
+
 - Netzwerktechnik (1 Router, 1 Repeater, 1 LAN-Kabel)
 - Ladestation für Tablets
 - Kassenschublade

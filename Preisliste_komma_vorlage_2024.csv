@@ -1,0 +1,40 @@
+"ID","Typ","Name","Preis","Parent"
+10,"Getränk","Bier 0,33l ","3",0
+11,"Getränk","Radler süß 0,33l","3",10
+12,"Getränk","Bier alkoholfrei 0,33l ","3",10
+40,"Getränk","¼l Müller Thurgau","3,5",0
+41,"Getränk","1l Müller Thurgau",14,40
+60,"Getränk","¼l Gutedel ","3,5",0
+61,"Getränk","1l Gutedel",14,60
+70,"Getränk","¼l Gutedel trocken","3,5",0
+71,"Getränk","1l Gutedel trocken",14,70
+90,"Getränk","¼l Spä. Rotwein","3,5",0
+91,"Getränk","1l Spä. Rotwein",14,90
+93,"Getränk","Weine","14",0
+95,"Getränk","3/4l Spätburgunder Rose","15",93
+97,"Getränk","3/4l Grauer Burgunder","15",93
+98,"Getränk","Badisches Gedeck 1l Weiß + 0,7 MiWa","15",93
+100,"Getränk","Schorle weiß sauer","3",0
+101,"Getränk","Schorle sauer (Müller)","3",100
+103,"Getränk","Schorle sauer (Gutedel)","3",100
+104,"Getränk","Schorle sauer (Gutedel trocken)","3",100
+110,"Getränk","Schorle süß","3",100
+111,"Getränk","Schorle süß (Müller)","3",110
+113,"Getränk","Schorle süß (Gutedel)","3",110
+114,"Getränk","Schorle süß (Gutedel trocken)","3",110
+120,"Getränk","Schorle rot sauer","3",0
+130,"Getränk","Schorle rot süß","3",120
+200,"Getränk","alk frei",0,0
+210,"Getränk","Mineralwasser ½l",2,200
+220,"Getränk","Cola","2,5",200
+230,"Getränk","Fanta","2,5",200
+240,"Getränk","Spezi - Paulaner","2,5",200
+247,"Getränk","Apfelschorle ½l ","2,5",200
+250,"Getränk","Bionade Holunder 0,33l","2,5",200
+2000,"Essen","Wurstsalat mit Brot",7,0
+2005,"Essen","Wurstsalat mit Kartoffelsalat",10,2000
+2010,"Essen","Grobe Bauernwurst mit Brot","4,5",0
+2012,"Essen","Grobe Bauernwurst mit Kartoffelsalat","7,5",0
+2015,"Essen","Käsewürfel mit Brot","4",0
+2050,"Essen","Bibiliskäse-Brot","2,5",0
+2300,"Essen","Tasse Kaffee","1,5",0
