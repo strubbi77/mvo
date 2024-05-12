@@ -4,9 +4,17 @@ MVO
 Dies ist das öffentliche Repository zu meiner App: **Mobiles Veranstaltungs Ordersystem** kurz MVO. 
 
 
-Es ist ein aus überwiegend Consumer-Hardware bestehendes System zur Abwicklung von Bestellungen für kleine bis mittlere Heckenfeste. 
+Es ist ein überwiegend aus Consumer-Hardware bestehendes System zur Abwicklung von Bestellungen für kleine bis mittlere Heckenfeste. 
+
+Tablets  
+---- 
+![Consumer-Hardware!](Bilder/bild_tablet_laden.jpg)
+![App  Tablet!](Bilder/bild_tablet_mit_app.jpg)
 
 Als Kasse sind 90 Bestellungen pro Stunde gut möglich. Eine Bedienung schafft dauerhaft etwa 30 Bestellungen die Stunde, wenn es zusätzliche Träger gibt. In Spitzenzeiten gehen auch 40 Bestellungen die Stunde. 
+
+
+![App  Tablet!](Bilder/bild_bons.jpg)
 
 
 Das System besteht aus:
@@ -20,13 +28,16 @@ Das System besteht aus:
 Ausleihbar
 ---------
 
-Die Preisliste sieht in der Einführungsphase folgendermaßen aus: 
+Meine Preisliste sieht in der Einführungsphase folgendermaßen aus: 
 
-- Tagespauschale 45 € 
-- Drucker je Tag 10 € (Papier extra)
-- Tablet je Tag 5 € (Bedienung 7", Kasse 10")
-- TSE je Woche 20 € (ist bei Vermietung nicht optional, da Pflicht Vermietung einer Kasse) 
-- alle Preise + Mehrwehrsteuer. 
+| Name | Zeitraum | Preis (€) | Kommentar
+| :-- | --- |  --: |  :---
+| Tagespauschale | täglich | 45  | 
+| Drucker  | je Wochenende | 10  | (Papier extra)
+| Kassenrolle | je angefanger Rolle | 1,80 | Blue4est
+| Tablet | je Tag | 5  |   Bedienung 7", Kasse 10"  
+| TSE | je Wochenende | 20 | (ist bei Vermietung nicht optional, da Pflicht Vermietung einer Kasse) 
+| | | alle Preise + Mehrwehrsteuer.  
  
 Inkludiert sind: 
 
@@ -43,9 +54,9 @@ Somit muss für digitales Zahlen auch ein anderes System beschafft werden.
 
 Sinnvoll kann ich es derzeit nur im Bereich südl. Breisgau Hochschwarzwald + Freiburg vermieten.
 
-Preisliste
+Preisliste (App)
 -------
-Die Preisliste ist eine einfache Kommaseparierte Liste mit 5 Spalten
+Die konfiugierte Preisliste für die Kasse ist eine Kommaseparierte Liste mit 5 Spalten
 
 | ID | Typ | Name | Preis | Parent
 | -- | --- | ---- | ----  | -------
