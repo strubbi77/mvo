@@ -43,6 +43,16 @@ Somit muss für digitales Zahlen auch ein anderes System beschafft werden.
 
 Sinnvoll kann ich es derzeit nur im Bereich südl. Breisgau Hochschwarzwald + Freiburg vermieten.
 
+Preisliste
+-------
+Die Preisliste ist eine einfache Kommaseparierte Liste mit 5 Spalten
+
+| ID | Typ | Name | Preis | Parent
+| -- | --- | ---- | ----  | -------
+| aufsteigende Zahl | Getränk oder Trinken (Vorkonfiguration Drucker und Farbe im Menu) | Name bis 50 Zeichen  | Preis mit Komma in " | 0 oder ID eines Oberpunktes
+
+Ein Beispiel der Preisliste ist unter [Preisliste](Preisliste_komma_vorlage_2024.csv) abgelegt. 
+
 Kontakt
 ------
 Kontakt über strub at gmx de oder direkt über das Repository. 
